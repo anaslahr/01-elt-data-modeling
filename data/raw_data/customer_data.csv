@@ -1,0 +1,7 @@
+customer_id,name,email,phone,registration_date,city,state,country
+CUST123,John Doe,john.doe@email.com,555-0101,2023-05-10,New York,NY,USA
+CUST456,Jane Smith,jane.smith@email.com,555-0102,2023-06-15,Los Angeles,CA,USA
+CUST789,Bob Johnson,bob.j@email.com,555-0103,2023-07-20,Chicago,IL,USA
+CUST234,Alice Williams,alice.w@email.com,555-0104,2023-08-05,Houston,TX,USA
+CUST567,Charlie Brown,charlie.b@email.com,,2023-09-12,Phoenix,AZ,USA
+CUST890,Diana Prince,diana.p@email.com,555-0106,2023-10-18,Philadelphia,PA,USA
