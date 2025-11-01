@@ -1,0 +1,8 @@
+product_id,product_name,category,supplier_id,cost_price,list_price,stock_quantity
+PROD001,Laptop,Electronics,SUP001,900.00,1200.00,50
+PROD002,Mouse,Accessories,SUP002,15.00,25.50,200
+PROD003,Keyboard,Accessories,SUP002,45.00,75.00,150
+PROD004,Monitor,Electronics,SUP001,250.00,350.00,75
+PROD005,USB Cable,Accessories,SUP003,8.00,15.00,500
+PROD006,Headphones,Audio,SUP004,55.00,89.99,100
+PROD007,Webcam,Electronics,SUP001,80.00,120.00,80
